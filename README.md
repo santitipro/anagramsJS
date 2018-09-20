@@ -1,5 +1,10 @@
 # anagramsJS
 
-1 -> Run "npm install"
-2 -> http-server
-3 -> Use!!
+## Usage example
+
+Run "npm install"
+
+http-server
+
+Use!!
+
